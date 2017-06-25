@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OfflineGPSLocation</string>
+    <string name="gubbi_labs_app_name">gubbi LABS</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
